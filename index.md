@@ -33,13 +33,19 @@ question, showing high demand from students. The scatter plot showed that
 students who find lesson videos effective also tend to support livestreaming, as the majority of the points were in the upper right corner. This result suggests that students value online recorded content in general as a learning tool. The line plot showed that  students with lower understanding scores tend to show higher support for livestreaming, suggesting that students who struggle would benefit most from 
 being able to revisit lectures at their own pace.
 
+
+
 Recommendation:
 
 Through analyzing data from student responses, my recommendation is that the course should implement a livestream or recording option for in-person lectures going forward. 
 
+
+
 Extensions and Refinements:
 
 This analysis could be taken further by exploring how support for livestreaming class lectures is related to how much programming experience people have in the past. It can also be studied if people are commuting to class and it would be easire for them to tune in online. These areas could show why people want online lectures and also how to best serve both the experienced programmers and the beginners. 
+
+
 
 Costs and Tradeoffs:
 
